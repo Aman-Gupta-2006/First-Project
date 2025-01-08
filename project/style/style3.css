@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.parallax {
+    background-image: url('../images/8048.jpg.webp');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.parallax-content {
+    text-align: center;
+    padding: 100px;
+    background-color: rgba(53, 138, 161, 0.8);
+}
+
+
+.section {
+    height: 100vh;
+    background-color: plum;
+}
+
+.section-content {
+    text-align: center;
+   
+    padding: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:coral;
+    overflow: hidden;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display: block;
+    color:#333;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    
+    background-color:aliceblue;
+}
