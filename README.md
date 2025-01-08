@@ -1,7 +1,7 @@
 # Travel Destinations Frontend Project
 
 
-This project is a simple frontend website created during my first semester in college when I had limited knowledge of HTML, CSS, and JavaScript. The goal was to build a basic website showcasing popular travel destinations and a ticket booking feature.
+This project is a simple frontend website created during my first semester in college when I had limited knowledge of HTML, CSS, and JavaScript. The goal was to build a basic website showcasing popular travel destinations and a dummy ticket booking feature.
 
 ## Features
 
