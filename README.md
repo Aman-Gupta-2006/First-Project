@@ -24,7 +24,9 @@ Navigation: Simple navigation bar for easy access to various pages like Home, Fe
 
 ## Technology Stack
 HTML: Structure and content of the pages.
+
 CSS: Styling of the pages, including layout and design.
+
 JavaScript: Basic interactivity, like handling form submissions.
 
 
